@@ -1,5 +1,4 @@
 #README
 
-Hellow git!
-第一次联系git bash，我会加油的！
+请把我从远程仓库拉到本地去！！！！！！
 
